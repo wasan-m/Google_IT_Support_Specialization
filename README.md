@@ -2,7 +2,7 @@
 
 <br>
 
-![cert](google-it-support.JPG)
+![img](google-it-support.JPG)
 
 
 * This repository written for reference and self-documentation purpose
